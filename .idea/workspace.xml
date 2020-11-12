@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08d9344f-cdbe-4fc6-815b-479bc27a0a81" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SeQxZfg4zInkaNxsDiez3MXIfp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../featuresLATEST" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tmo\Desktop\android_automation\features\support" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08d9344f-cdbe-4fc6-815b-479bc27a0a81" name="Default Changelist" comment="" />
+      <created>1552903871656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552903871656</updated>
+      <workItem from="1552903877525" duration="1000000" />
+      <workItem from="1552906301535" duration="8315000" />
+      <workItem from="1553858859449" duration="28498000" />
+      <workItem from="1554057899421" duration="591000" />
+      <workItem from="1554099282861" duration="63370000" />
+      <workItem from="1554373506887" duration="1008000" />
+      <workItem from="1554385740766" duration="21015000" />
+      <workItem from="1558513007184" duration="1783000" />
+      <workItem from="1558515198478" duration="1077000" />
+      <workItem from="1558516909514" duration="1770000" />
+      <workItem from="1558519633028" duration="626000" />
+      <workItem from="1558521885300" duration="591000" />
+      <workItem from="1558525049377" duration="591000" />
+      <workItem from="1558527146102" duration="1565000" />
+      <workItem from="1558529011138" duration="1396000" />
+      <workItem from="1560496706960" duration="1293000" />
+      <workItem from="1560501606574" duration="595000" />
+      <workItem from="1571920902752" duration="437000" />
+      <workItem from="1571921836779" duration="1873000" />
+      <workItem from="1580570189192" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
